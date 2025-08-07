@@ -1,0 +1,31 @@
+body {
+    background-color: aliceblue;
+    font-family: lucia;
+    
+}
+
+div {
+    width: 600px;
+    float: center;
+}
+
+h1 {
+    text-align: center;    
+} 
+
+
+
+.texto{
+    font-style: italic;
+    text-align: center;
+    width: 300px;
+    border-radius: 10%;
+    border-color: red;
+    border-style: solid;
+}
+
+#imagen {
+    width: 500px;
+    height: 500px;
+
+}
