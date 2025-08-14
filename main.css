@@ -5,9 +5,8 @@ body {
 }
 
 div {
-    width: 600px;
-    float: center;
-    margin-left: 400px;
+    width: 400px;
+    margin: 400px;
     padding: 400px;
 }
 
